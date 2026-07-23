@@ -13,66 +13,24 @@ Contents:
   - [Abstract](#abstract)
   - [Value](#value)
   - [Scope](#scope)
-  - [Type](#type)
   - [Payment](#payment)
 - [Purpose](#purpose)
   - [Objectives](#objectives)
   - [Performance](#performance)
-  - [Factors](#factors)
 - [Who does what](#who-does-what)
   - [People](#people)
   - [Roles](#roles)
   - [Responsibilities](#responsibilities)
 - [Context](#context)
-  - [Past](#past)
   - [Present](#present)
   - [Future](#future)
 - [Planning](#planning)
   - [Requirements](#requirements)
-  - [Specifications](#specifications)
-  - [Work breakdown structure (WBS)](#work-breakdown-structure-wbs)
-  - [Applicable standards](#applicable-standards)
-  - [Technical, operational, and organizational environment](#technical-operational-and-organizational-environment)
-  - [Method and source of acceptance](#method-and-source-of-acceptance)
-  - [Reporting requirements](#reporting-requirements)
-  - [Project management control procedures](#project-management-control-procedures)
-  - [Change management procedures](#change-management-procedures)
-  - [Ownership of intellectual property](#ownership-of-intellectual-property)
 - [Other terms and conditions](#other-terms-and-conditions)
-  - [Authorities](#authorities)
   - [Client's obligations](#clients-obligations)
-  - [Contractor's obligations](#contractors-obligations)
-  - [Location of work, work site, and delivery point](#location-of-work-work-site-and-delivery-point)
-  - [Language of work](#language-of-work)
-  - [Special requirements](#special-requirements)
-  - [Security requirements](#security-requirements)
-  - [Insurance requirements](#insurance-requirements)
-  - [Expense requirements](#expense-requirements)
 - [Schedule](#schedule)
   - [Expected start date and completion date](#expected-start-date-and-completion-date)
-  - [Schedule](#schedule-1)
-  - [Required resources or types of roles to be performed](#required-resources-or-types-of-roles-to-be-performed)
-  - [Applicable documents](#applicable-documents)
-  - [Wordbook](#wordbook)
   - [Sign-off](#sign-off)
-
-
-## Introduction
-
-Wikipedia has good introductions that explain these related concepts:
-
-  * [statement of work (SOW)](https://en.wikipedia.org/wiki/Statement_of_work)
-  * [statement of objectives
-    (SOO)](https://en.wikipedia.org/wiki/Statement_of_objectives)
-  * [performance work statement
-    (PWS)](https://en.wikipedia.org/wiki/Performance_work_statement)
-  * [contract data requirements list
-    (CDRL)](https://en.wikipedia.org/wiki/Contract_data_requirements_list)
-
-The rest of this page is a statement of work template. The template is based on
-work by the Natural Resources Conservation Service, at the U.S. Department of
-Agriculture, using this [statement of work
-document](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/16/stelprdb1041239.pdf).
 
 
 ## Statement of work template
@@ -150,29 +108,6 @@ will provide post-launch support for a period of six months to address any
 system issues or updates. The work will be completed in a phased approach, with
 specific deliverables outlined at each stage to ensure project milestones are
 met on time.
-
-
-### Type
-
-Summarize the type of work, ideally in one paragraph.
-
-Include the most-relevant language, such as "This is a work for hire as
-described by U.S. California law.".
-
-If you prefer to provide more information about the type, then add an appendix
-section "Type".
-
-Example: This is a work-for-hire agreement, as defined under U.S. California
-law, wherein the vendor is contracted to deliver a fully customized CRM system
-for XYZ Corporation. All intellectual property, including software code,
-documentation, and related materials developed during the project, will be owned
-by XYZ Corporation upon completion and full payment. The vendor will perform the
-work as an independent contractor, adhering to the project’s defined
-requirements, milestones, and deadlines, with no employee-employer relationship
-established. The vendor is responsible for providing all necessary resources,
-including personnel, tools, and equipment, to complete the project, while
-ensuring compliance with all applicable laws and regulations during the
-development and implementation phases.
 
 
 ### Payment
@@ -272,63 +207,6 @@ Example system performance metrics:
   within 30 days post-implementation.
 
 
-### Factors
-
-Describe the factors that are most-relevant to success of the work.
-
-We recommend [Critical Success Factors
-(CSFs)](http://github.com/joelparkerhenderson/critical-success-factor/).
-
-Identify business factors (e.g. personnel availability, budget allocation) and
-technical factors (e.g. tool availability, software allocation).
-
-Examples:
-
-* Personnel: Success relies heavily on the availability of qualified and skilled
-  personnel, including project managers, subject matter experts, and developers,
-  is critical for timely decision-making and issue resolution. Any gaps in
-  knowledge or skill sets may lead to delays or suboptimal solutions.
-
-* Budget Allocation and Financial Resources: Adequate funding must be allocated
-  at the outset and maintained throughout the duration of the project.
-  Insufficient budget allocation can lead to resource constraints, resulting in
-  project delays, quality issues, or scope reductions.
-
-* Tool Availability: The timely availability of the necessary tools and software
-  platforms is essential for the team to carry out the required tasks
-  efficiently. This includes the allocation of licenses, access to development
-  environments, current versioning, and any specialized software tools required.
-
-* Stakeholder Engagement: Effective communication with stakeholders is crucial
-  for ensuring alignment on objectives, outputs, and outcomes. Regular updates,
-  feedback loops, clear roles and responsibilities, and transparency are key to
-  managing expectations and addressing concerns as they arise.
-
-* Scope Management: Clear procedures for managing scope changes and project
-  adjustments help avoid scope creep and maintain focus on the original project
-  objectives. Regular reviews and approval processes for any changes to scope,
-  timeline, or budget are essential for successful project delivery. 
-
-* Risk Management: Proactive identification, assessment, and mitigation of risks
-  are key to avoiding project disruptions. A well-defined risk management plan,
-  including contingency plans for potential issues, ensures the project can
-  adapt quickly to unforeseen challenges.
-
-* Time Management: Timely delivery of project milestones and deliverables is
-  essential for overall project success. A well-structured project schedule with
-  clear deadlines, dependencies, milestones, and progress monitoring is
-  necessary to ensure the team remains focused and efficient. 
-
-* Quality Assurance: Ongoing quality assurance processes, including automated
-  and manual testing, are vital. A clearly defined testing strategy should be
-  followed to detect issues early in the development lifecycle. Current test
-  results must be visible to authorized stakeholders.
-  
-* End-User Adoption: The willingness and ability of end-users to adopt the final
-  solution is a critical success factor. This includes proper end-user training,
-  end-user testing, and end-user support throughout the adoption process. 
-
-
 ## Who does what
 
 
@@ -376,18 +254,6 @@ assignment notes and details.
 
 
 ## Context
-
-
-### Past
-
-Describe the context leading up to the work, such as events and circumstances
-that led to the need for the work.
-
-Identify any relevant past work, and any of its successes, failures, learnings,
-issues, etc.
-
-Identify any relevant past people, such as previous participants, earlier
-stakeholders, etc.
 
 
 ### Present
@@ -443,124 +309,7 @@ schedule.
 You may see all this information included in a table and/or text.
 
 
-### Specifications
-
-Identify the manner in which the work is to be delivered, and to be measured as
-completed.
-
-In some cases, the information provided in the Deliverable or the Method and
-Source of Acceptance Sections of the SOW will be sufficient.
-
-In other cases, specific reference will be made to the details and qualitative
-and quantitative measures which will be used by Client to determine completion
-and satisfaction with the work.
-
-
-### Work breakdown structure (WBS)
- 
-To be determined.
-
-
-### Applicable standards
-
-Describe any industry standards that need to be adhered to in fulfilling the
-contract.
-
-Identify any guidelines and templates that must be followed or used by the
-Contractor in completing the work.
-
-Some relevant examples might be the reference to specific sections of
-authoritative sources, governmental regulations, or best-of-breed practices,
-peer organization processes, and guidelines.
-
-
-### Technical, operational, and organizational environment
-
-Provide details on the technical, organizational and operational environment in
-which the work will be completed. It is more significant in work where technical
-compatibility issues may arise. 
-
-In some cases, it is important to describe in this Section how the work will fit
-within other initiatives and who will be the ultimate end user of the
-requirement.
-
-
-### Method and source of acceptance
-
-Provide a description of the performance, quality, format and testing
-requirements which will be used to measure whether the work is acceptable or
-not.
-
-Example language:
-
-* All deliverables and services rendered under any contract are subject to
-  inspection by the Work Authority. Should any deliverables not be to the
-  satisfaction of the Work Authority, as submitted, the Work Authority shall
-  have the right to reject it or require correction before payment will be
-  authorized.
-
-This may also describe quality assurance in terms of processes, goals, automated
-testing, user testing, etc.
-
-
-### Reporting requirements
-
-Describe any performance or status reporting requirements which will be expected
-of the Contractor during the life of the Contract. Includes the format,
-frequency, number of copies and specific content requirements. It will also
-identify the need for presentations, conferences or status meetings, if required
-between the Contractor and the Work Authority.
-
-
-### Project management control procedures
-
-Provide details of how the Work Authority will control the work (progress
-meetings, demonstrations, prototypes etc.). It will identify how the payment
-schedule will be matched to the measurement of performance throughout the
-contract. Contract management and controls in the SOW should be specific to the
-work and tasks.
-
-Example language:
-
-* The Work Authority shall ensure the contract will be brought in on time, on
-  budget and of an acceptable quality; i.e. submission of progress reports,
-  system tests, etc.
-
-
-### Change management procedures
-
-Provide a description of the process by which any changes to the Scope will be
-handled. It clearly defines that no changes will be implemented without first
-obtaining the approval of the Contract Authority in writing and as required the
-complete processing of a Contract Amendment.
-
-Example language:
-
-* Client does not anticipate any changes to the requirements detailed in this
-  SOW. However, if changes do arise they must be done in writing by the Work
-  Authority, and an amendment must be prepared to reflect these changes.
-
-
-### Ownership of intellectual property
-
-Describe who will own any intellectual property created as a result of the
-Contract. This may include aspects relating to work-for-hire, confidentiality,
-open source, derivative works, etc.
-
-Example language:
-
-* The Intellectual Property will be owned by Client as a work for hire.
-
-
 ## Other terms and conditions
-
-
-### Authorities
-
-Identify who will perform the role of the Work Authority and the Contracting
-Authority and the person who will handle Administration and Invoicing Questions.
-It also clarifies how the Contractor is to interact with and obtain direction
-from the Work Authority.
 
 
 ### Client's obligations
@@ -587,86 +336,6 @@ heading:
 * Provide applicable documentation.
 
 
-### Contractor's obligations
-
-The following are examples of the contents that may be included under this
-heading:
-
-* Keep all documents and proprietary information confidential;
-
-* Meet all tasks, deliverables and milestones.
-
-* Return all materials belonging to Client upon completion of the contract.
-
-* Preserve all electronic forms of correspondence (e.g. emails, etc.).
-
-* Submit all written reports as PDF electronic files.
-
-* Participate in events such as a meetings, calls, conferences, as needed.
-
-* Maintain security clearance with no conflict for the duration of the contract.
-
-* Conduct and maintain all documentation in a secure area;
-
-
-### Location of work, work site, and delivery point
-
-Identify where the work is expected to be completed. This also specifies the
-location of hardware and software and where people will meet to perform the
-work.
-
-Example language:
-
-* Due to existing workload and deadlines, all personnel assigned to any Contract
-  must be ready to work in close and frequent contact with the Client's
-  personnel. The work will be performed at the Contractor's location.
-
-
-### Language of work
-
-Identify if the work must be conducted in a particular language, or languages,
-and if so by which role or for which task.
-
-
-### Special requirements
-
-Indicates if there will be any requirements for special licenses, information on
-patents, permits, bonds or import/export details which may be required of either
-Party.
-
-
-### Security requirements
-
-Describe any security requirements and policies that the Contractor will need to
-meet in advance of Contract Award, and how the Contractor will need to
-demonstrate compliance.
-
-Example language:
-
-* It is a condition that, prior to performance of any obligation under any
-  contract, the Contractor and sub-contractors and their employees assigned to
-  the performance of such contract will be cleared by the federal government at
-  the Reliability level.
-
-
-### Insurance requirements
-
-Describe any insurance that Client or Contractor may need, or want, or provide,
-such as bonding, on-time completion guarantors, etc.
-
-Include any understandings about insurance, such as industry practices, peer
-practices, policy coverages, etc.
-
-
-### Expense requirements
-
-Estimate any expenses and their costs, such as travel expenses, living expenses,
-materials expenses, etc.
-
-Include any understandings about expenses, such as limitations, restrictions,
-guidances, policies, etc.
-
-
 ## Schedule
 
 
@@ -685,53 +354,6 @@ Example language:
 
 This section may also specify allowable time for work, such as number of hours
 that can be billed per day, week, month, etc.
-
-
-### Schedule
-
-To be determined. This section uses the work breakdown structure (WBS) above.
-
-
-### Required resources or types of roles to be performed
-
-Provide a brief description of the roles to be performed by the Contractor's
-resources, if applicable and the specific expertise or minimum requirements for
-each role.
-
-Example language:
-
-* Current license from a particular regulatory body.
-
-* Member in good standing with an industry organization.
-
-* Security clearance provided by a specific government agency.
-  
-
-### Applicable documents
-
-Append any relevant background documents, drawings, specifications, samples or
-information which will be important to demonstrate what, how and when the work
-will need to be completed.
-
-
-### Wordbook
-
-Explain relevant terminology. Provide any reference wordbooks, glossaries,
-dictionaries, etc.
-
-Include any initialisms, abbreviations, acronyms, and specialized wording
-relevant to the work, the organization, and the industry.
-
-We recommend creating a file named "wordbook" that contains this information,
-then continuously improving this file.
-
-Example language:
-
-* SOW: Statement of Work
-
-* OKR: Objective and Key Result
-
-* WBS: Work Breakdown Structure
 
 
 ### Sign-off
